@@ -1,0 +1,27 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+li button {
+  margin-left: 10px;
+}
